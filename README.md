@@ -1,5 +1,6 @@
 # IntroToHTML5Templates
 
+TEST GITHUB PROCESS
 
 ## Aims and Objectives
 
@@ -31,7 +32,7 @@ This 12 step guide will walk you though text and image changes, adding and subtr
 
 ## Conclusions
 
-That's about it. What are you waiting for? Let's get started! 
+That's about it. What are you waiting for? Let's get started!
 
 Thanks,
 Mary
