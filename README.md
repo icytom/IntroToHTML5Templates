@@ -1,6 +1,6 @@
 # IntroToHTML5Templates
 
-TEST GITHUB PROCESS
+
 
 ## Aims and Objectives
 
